@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.smart.aicalculator.app-mergeDebugResources-56:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "/Users/designer/Desktop/Ai Calculator/app/src/main/res/values-v31/themes.xml",
+                    "from": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "459",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "1005"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "567"
+                    }
+                }
+            ]
+        }
+    ]
+}

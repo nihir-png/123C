@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Adaptive-icon background layer. Solid #F7F7F7 — the EXACT background color of
+  custom_app_icon.png (sampled from the artwork). Because this matches the
+  icon's own background, the foreground's transparent corners and the safe-zone
+  inset blend seamlessly: the launcher shows the light icon with NO visible
+  padding ring, no gold band, no seam. Colors are NOT changed from the source.
+-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#F7F7F7" />
+</shape>

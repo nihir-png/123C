@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./gradlew assembleDebug -q)",
+      "Bash(echo \"BASELINE_EXIT=$?\")",
+      "Bash(rm -f app/src/main/java/com/smart/aicalculator/data/ai/AiProvider.kt)",
+      "Bash(rmdir app/src/main/java/com/smart/aicalculator/data/ai)",
+      "Bash(export JAVA_HOME=\"/Applications/Android Studio.app/Contents/jbr/Contents/Home\")",
+      "Bash(./gradlew assembleDebug)",
+      "Bash(./gradlew clean *)",
+      "Bash(./gradlew installDebug)",
+      "Read(//Users/designer/Library/Android/sdk/emulator/**)",
+      "Bash(nohup ./emulator -avd Pixel_7 -netdelay none -netspeed full)",
+      "Bash(echo \"emulator launching \\(pid $!\\)\")",
+      "Bash(/Users/designer/Library/Android/sdk/platform-tools/adb shell *)",
+      "Bash(/Users/designer/Library/Android/sdk/platform-tools/adb exec-out *)",
+      "Bash(python3 -c \"import PIL; print\\('PIL ok', PIL.__version__\\)\")",
+      "Bash(python3 -)"
+    ]
+  }
+}

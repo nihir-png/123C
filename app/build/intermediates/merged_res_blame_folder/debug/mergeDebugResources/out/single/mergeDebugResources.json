@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.smart.aicalculator.app-debug-58:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.smart.aicalculator.app-main-60:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.smart.aicalculator.app-debug-58:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.smart.aicalculator.app-main-60:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.smart.aicalculator.app-debug-58:/font_inter_variable.ttf.flat",
+        "source": "com.smart.aicalculator.app-main-60:/font/inter_variable.ttf"
+    },
+    {
+        "merged": "com.smart.aicalculator.app-debug-58:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.smart.aicalculator.app-main-60:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.smart.aicalculator.app-debug-58:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.smart.aicalculator.app-main-60:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.smart.aicalculator.app-debug-58:/font_urbanist_variable.ttf.flat",
+        "source": "com.smart.aicalculator.app-main-60:/font/urbanist_variable.ttf"
+    },
+    {
+        "merged": "com.smart.aicalculator.app-debug-58:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.smart.aicalculator.app-main-60:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.smart.aicalculator.app-debug-58:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.smart.aicalculator.app-main-60:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.smart.aicalculator.app-debug-58:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.smart.aicalculator.app-main-60:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.smart.aicalculator.app-debug-58:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.smart.aicalculator.app-main-60:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.smart.aicalculator.app-debug-58:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.smart.aicalculator.app-main-60:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.smart.aicalculator.app-debug-58:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.smart.aicalculator.app-main-60:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.smart.aicalculator.app-debug-58:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.smart.aicalculator.app-main-60:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.smart.aicalculator.app-debug-58:/drawable_splash_icon.xml.flat",
+        "source": "com.smart.aicalculator.app-main-60:/drawable/splash_icon.xml"
+    },
+    {
+        "merged": "com.smart.aicalculator.app-debug-58:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.smart.aicalculator.app-main-60:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.smart.aicalculator.app-debug-58:/drawable_custom_app_icon.png.flat",
+        "source": "com.smart.aicalculator.app-main-60:/drawable/custom_app_icon.png"
+    },
+    {
+        "merged": "com.smart.aicalculator.app-debug-58:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.smart.aicalculator.app-main-60:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.smart.aicalculator.app-debug-58:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.smart.aicalculator.app-main-60:/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

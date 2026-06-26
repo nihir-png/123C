@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_calculator">Calculadora</string>
+    <string name="tab_tools">Herramientas</string>
+    <string name="tab_history">Historial</string>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="continue_label">Continuar</string>
+    <string name="clear">Borrar</string>
+    <string name="clear_all">Borrar todo</string>
+
+    <string name="mode_basic">Básica</string>
+    <string name="mode_sci">Cient.</string>
+
+    <string name="tools_subtitle">Calculadoras rápidas para el día a día</string>
+    <string name="category_finance">Finanzas y dinero</string>
+    <string name="category_math">Matemáticas y utilidades</string>
+    <string name="category_health">Salud</string>
+    <string name="smart_solve_title">Smart Solve</string>
+    <string name="smart_solve_desc">Escribe un cálculo en palabras — resuelto al instante y sin conexión.</string>
+    <string name="smart_solve_cta">Probar</string>
+
+    <string name="tool_gst_title">IVA / GST</string>
+    <string name="tool_gst_desc">Añade o quita impuestos de cualquier importe.</string>
+    <string name="tool_discount_title">Descuento</string>
+    <string name="tool_discount_desc">Precio de oferta y ahorro total.</string>
+    <string name="tool_tip_title">Propina</string>
+    <string name="tool_tip_desc">Propina y divide la cuenta entre personas.</string>
+    <string name="tool_emi_title">Préstamo / EMI</string>
+    <string name="tool_emi_desc">Pago mensual de un préstamo.</string>
+    <string name="tool_saving_title">Meta de ahorro</string>
+    <string name="tool_saving_desc">Planifica cuánto ahorrar al mes.</string>
+    <string name="tool_sip_title">Planificador SIP</string>
+    <string name="tool_sip_desc">Proyecta una inversión mensual.</string>
+    <string name="tool_currency_title">Divisas</string>
+    <string name="tool_currency_desc">Convierte con tipos de cambio en vivo.</string>
+    <string name="tool_percent_title">Porcentaje</string>
+    <string name="tool_percent_desc">Porcentajes y variación porcentual.</string>
+    <string name="tool_unit_title">Conversor de unidades</string>
+    <string name="tool_unit_desc">Longitud, peso, temperatura y más.</string>
+    <string name="tool_age_title">Calculadora de edad</string>
+    <string name="tool_age_desc">Edad exacta en años, meses y días.</string>
+    <string name="tool_bmi_title">Calculadora de IMC</string>
+    <string name="tool_bmi_desc">Índice de masa corporal y categoría.</string>
+
+    <string name="history_subtitle_empty">Tus cálculos aparecen aquí</string>
+    <string name="history_subtitle_count">%1$d guardados</string>
+    <string name="history_search">Buscar en el historial</string>
+    <string name="filter_all">Todos</string>
+    <string name="source_tool">Herramienta</string>
+    <string name="history_empty_title">Aún no hay historial</string>
+    <string name="history_empty_desc">Los cálculos, respuestas de Smart Solve y resultados de herramientas aparecerán aquí automáticamente.</string>
+    <string name="history_no_match_title">Sin resultados</string>
+    <string name="history_no_match_desc">Prueba otra búsqueda o filtro.</string>
+    <string name="clear_history_q">¿Borrar historial?</string>
+    <string name="clear_history_msg">Esto elimina permanentemente todos los cálculos guardados. No se puede deshacer.</string>
+
+    <string name="settings_title">Ajustes</string>
+    <string name="settings_appearance">Apariencia</string>
+    <string name="settings_theme">Tema</string>
+    <string name="theme_light">Claro</string>
+    <string name="theme_dark">Oscuro</string>
+    <string name="theme_system">Sistema</string>
+    <string name="settings_language">Idioma</string>
+    <string name="settings_preferences">Preferencias</string>
+    <string name="settings_haptic_title">Respuesta háptica</string>
+    <string name="settings_haptic_sub">Vibrar al pulsar teclas</string>
+    <string name="settings_data">Datos</string>
+    <string name="settings_clear_title">Borrar historial</string>
+    <string name="settings_clear_sub">Eliminar todos los cálculos guardados</string>
+    <string name="settings_about">Acerca de</string>
+    <string name="about_title">Smart Calculator</string>
+    <string name="about_version">Versión 1.0</string>
+    <string name="about_desc">Funciona totalmente sin conexión. Sin anuncios, sin rastreo, sin internet.</string>
+
+    <string name="language_choose_title">Elige el idioma</string>
+    <string name="language_choose_sub">Selecciona el idioma de la app</string>
+    <string name="language_system">Predeterminado del sistema</string>
+</resources>

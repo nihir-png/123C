@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_calculator">कैलकुलेटर</string>
+    <string name="tab_tools">टूल्स</string>
+    <string name="tab_history">इतिहास</string>
+
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="save">सहेजें</string>
+    <string name="continue_label">जारी रखें</string>
+    <string name="clear">हटाएँ</string>
+    <string name="clear_all">सब हटाएँ</string>
+
+    <string name="mode_basic">बेसिक</string>
+    <string name="mode_sci">साइंस</string>
+
+    <string name="tools_subtitle">रोज़मर्रा के लिए त्वरित कैलकुलेटर</string>
+    <string name="category_finance">फाइनेंस और पैसा</string>
+    <string name="category_math">गणित और उपयोगिताएँ</string>
+    <string name="category_health">स्वास्थ्य</string>
+    <string name="smart_solve_title">स्मार्ट सॉल्व</string>
+    <string name="smart_solve_desc">शब्दों में गणना लिखें — तुरंत ऑफ़लाइन हल।</string>
+    <string name="smart_solve_cta">आज़माएँ</string>
+
+    <string name="tool_gst_title">GST / VAT</string>
+    <string name="tool_gst_desc">किसी भी राशि पर कर जोड़ें या हटाएँ।</string>
+    <string name="tool_discount_title">छूट</string>
+    <string name="tool_discount_desc">बिक्री मूल्य और कुल बचत।</string>
+    <string name="tool_tip_title">टिप</string>
+    <string name="tool_tip_desc">टिप दें और बिल को लोगों में बाँटें।</string>
+    <string name="tool_emi_title">लोन / EMI</string>
+    <string name="tool_emi_desc">लोन के लिए मासिक भुगतान।</string>
+    <string name="tool_saving_title">बचत लक्ष्य</string>
+    <string name="tool_saving_desc">हर महीने कितना बचाना है, योजना बनाएँ।</string>
+    <string name="tool_sip_title">SIP प्लानर</string>
+    <string name="tool_sip_desc">मासिक निवेश का अनुमान लगाएँ।</string>
+    <string name="tool_currency_title">मुद्रा</string>
+    <string name="tool_currency_desc">लाइव विनिमय दरों से बदलें।</string>
+    <string name="tool_percent_title">प्रतिशत</string>
+    <string name="tool_percent_desc">प्रतिशत और प्रतिशत परिवर्तन।</string>
+    <string name="tool_unit_title">यूनिट कनवर्टर</string>
+    <string name="tool_unit_desc">लंबाई, वज़न, तापमान और बहुत कुछ।</string>
+    <string name="tool_age_title">आयु कैलकुलेटर</string>
+    <string name="tool_age_desc">वर्ष, महीने, दिन में सटीक आयु।</string>
+    <string name="tool_bmi_title">BMI कैलकुलेटर</string>
+    <string name="tool_bmi_desc">बॉडी मास इंडेक्स और श्रेणी।</string>
+
+    <string name="history_subtitle_empty">आपकी गणनाएँ यहाँ रहती हैं</string>
+    <string name="history_subtitle_count">%1$d सहेजी गईं</string>
+    <string name="history_search">इतिहास खोजें</string>
+    <string name="filter_all">सभी</string>
+    <string name="source_tool">टूल</string>
+    <string name="history_empty_title">अभी कोई इतिहास नहीं</string>
+    <string name="history_empty_desc">गणनाएँ, स्मार्ट सॉल्व उत्तर और टूल परिणाम यहाँ अपने आप दिखेंगे।</string>
+    <string name="history_no_match_title">कोई मिलान नहीं</string>
+    <string name="history_no_match_desc">कोई अन्य खोज या फ़िल्टर आज़माएँ।</string>
+    <string name="clear_history_q">इतिहास हटाएँ?</string>
+    <string name="clear_history_msg">यह सभी सहेजी गई गणनाएँ स्थायी रूप से हटा देगा। इसे पूर्ववत नहीं किया जा सकता।</string>
+
+    <string name="settings_title">सेटिंग्स</string>
+    <string name="settings_appearance">रूप</string>
+    <string name="settings_theme">थीम</string>
+    <string name="theme_light">लाइट</string>
+    <string name="theme_dark">डार्क</string>
+    <string name="theme_system">सिस्टम</string>
+    <string name="settings_language">भाषा</string>
+    <string name="settings_preferences">प्राथमिकताएँ</string>
+    <string name="settings_haptic_title">हैप्टिक फ़ीडबैक</string>
+    <string name="settings_haptic_sub">कुंजी दबाने पर कंपन</string>
+    <string name="settings_data">डेटा</string>
+    <string name="settings_clear_title">इतिहास हटाएँ</string>
+    <string name="settings_clear_sub">सभी सहेजी गई गणनाएँ हटाएँ</string>
+    <string name="settings_about">ऐप के बारे में</string>
+    <string name="about_title">स्मार्ट कैलकुलेटर</string>
+    <string name="about_version">संस्करण 1.0</string>
+    <string name="about_desc">पूरी तरह ऑफ़लाइन काम करता है। कोई विज्ञापन नहीं, कोई ट्रैकिंग नहीं, इंटरनेट की ज़रूरत नहीं।</string>
+
+    <string name="language_choose_title">भाषा चुनें</string>
+    <string name="language_choose_sub">अपनी पसंदीदा ऐप भाषा चुनें</string>
+    <string name="language_system">सिस्टम डिफ़ॉल्ट</string>
+</resources>

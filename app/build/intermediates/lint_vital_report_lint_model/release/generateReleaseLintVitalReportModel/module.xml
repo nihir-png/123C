@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/designer/Desktop/Ai Calculator/app"
+    name=":app"
+    type="APP"
+    maven="AI Calculator:app:unspecified"
+    agpVersion="8.5.0"
+    buildFolder="build"
+    bootClassPath="/Users/designer/Library/Android/sdk/platforms/android-34/android.jar:/Users/designer/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="21"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
